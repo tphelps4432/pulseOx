@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Tom Phelps\\AndroidStudioProjects\\PulseOx\\app\\build\\intermediates\\res\\merged\\debug\\raw\\left_signal.wav",
+        "source": "C:\\Users\\Tom Phelps\\AndroidStudioProjects\\PulseOx\\app\\src\\main\\res\\raw\\left_signal.wav"
+    },
+    {
+        "merged": "C:\\Users\\Tom Phelps\\AndroidStudioProjects\\PulseOx\\app\\build\\intermediates\\res\\merged\\debug\\raw\\right_signal.wav",
+        "source": "C:\\Users\\Tom Phelps\\AndroidStudioProjects\\PulseOx\\app\\src\\main\\res\\raw\\right_signal.wav"
+    }
+]
